@@ -1,0 +1,5 @@
+dog
+cat
+crocodile
+chicken
+ant 
